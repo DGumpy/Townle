@@ -3,3 +3,6 @@ author:
   name: Alex Burch
   email: alexanderburch@gmail.com
 descriptiion: Java project
+
+#Build settings
+remote_theme: jekyll/minima
